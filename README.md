@@ -8,4 +8,7 @@ feature 1
 feature 1.2
 feature 2
 feature 2.1
-feature 3
+update README
+change 1
+change 2
+change 3
